@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35302'
     url: http://www.gutenberg.org/2009/agents/35302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31532#Romantic-Spain--A-Record-of-Personal-Experiences--Vol.-II-
 gutenberg_issued: '2010-03-07'
 gutenberg_type: Text
 identifiers:
