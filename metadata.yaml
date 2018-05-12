@@ -1,0 +1,26 @@
+_repo: Romantic-Spain--A-Record-of-Personal-Experiences--Vol.-II-_31532
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Shea, John Augustus
+    birthdate: 1840
+    deathdate: 1905
+    gutenberg_agent_id: '35302'
+    url: http://www.gutenberg.org/2009/agents/35302
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+title: 'Romantic Spain: A Record of Personal Experiences (Vol. II)'
+url: http://www.gutenberg.org/ebooks/31532
